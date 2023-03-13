@@ -32,3 +32,5 @@ Mention the time you spent on this
 You can use any boilerplate from internet instead of setting up own from scratch to save time.
 
 
+The Postman collection is=> https://drive.google.com/file/d/1jjTWFfq4TeHkuOjCWsQFF018PaWGZlxa/view?usp=sharing
+the soort video about this prooject is=>https://drive.google.com/drive/folders/1b8aGOWwFCScTUbnkXFTFc3tKf7eYp9aT?usp=sharing
